@@ -129,10 +129,5 @@ Dies speichert die Daten lokal, sodass sie für das Training genutzt werden kön
 
 ---
 
-## 📜 Lizenz
-📃 Dieses Projekt steht unter der **MIT-Lizenz**. Weitere Details in der Datei `LICENSE`.
-
----
-
 🛠️ **Erstellt von Ben Mölli**
 
